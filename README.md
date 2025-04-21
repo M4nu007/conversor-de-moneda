@@ -1,6 +1,7 @@
 # Conversor de Monedas💱
-El Challenge Conversor de Monedas, es una propuesta de Alura Latam en colaboración con Oracle en
-el programa ONE, como parte de la especialización Back-End.
+## Video de demostración 🎥
+--
+![Video de Demostración](assets/demo.gif)
 
 ## Descripción: 📌
 --
@@ -38,6 +39,3 @@ git clone https://github.com/M4nu007/conversor-de-moneda.git
 --
 * **Manuel Condori** - -> [github](https://github.com/M4nu007)
 
-## Demostración
---
-![menú del programa.](/assets/gif.gif)
