@@ -1,16 +1,17 @@
-<h1 style="text-align:center;">Conversor de Monedas💱</h1> 
+# Conversor de Monedas💱
 El Challenge Conversor de Monedas, es una propuesta de Alura Latam en colaboración con Oracle en
 el programa ONE, como parte de la especialización Back-End.
 
-### Descripción:
+## Descripción: 📌
+--
 Este proyecto es una aplicación de consola desarrollada en Java que permite convertir montos entre distintas monedas
 utilizando la API pública de [ExchangeRate API](https://www.exchangerate-api.com/).
 El objetivo es brindar una herramienta simple para realizar conversiones entre divisas comunes y otras seleccionadas
 por el usuario.
 
 
-### Pre-requisitos 📋
-
+## Pre-requisitos 📋
+--
 _Asegúrate de contar con los siguientes programas, archivos y versiones:_
 
 * Java JDK: versión 11 en adelante
@@ -19,8 +20,8 @@ _Asegúrate de contar con los siguientes programas, archivos y versiones:_
 * IDE (Entorno de Desarrollo Integrado) IntelliJ IDEA Community Edition
 
 
-### instrucciones de uso 🔧
-
+## instrucciones de uso 🔧
+--
 1. Clona este repositorio en tu máquina local.
 2. Abre el proyecto en tu IDE(ej. IntelliJ IDEA, eclipse) de preferencia.
 3. Ejecuta la clase ConversorDeMonedaApp.java para iniciar el programa.
@@ -33,8 +34,10 @@ git clone https://github.com/M4nu007/conversor-de-moneda.git
 
 ![menú del programa.](/assets/menu.PNG)
 
-### Autores ✒️
-
+## Autores ✒️
+--
 * **Manuel Condori** - -> [github](https://github.com/M4nu007)
 
-### Demostración
+## Demostración
+--
+![menú del programa.](/assets/gif.gif)
