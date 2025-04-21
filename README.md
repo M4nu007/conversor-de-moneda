@@ -1,3 +1,4 @@
+![insignia](/assets/Badge-Conversor.png)
 # Conversor de Monedas💱
 ## Video de demostración 🎥
 
